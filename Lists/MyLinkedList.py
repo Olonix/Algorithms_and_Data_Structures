@@ -1,3 +1,5 @@
+# реализация односвязного списка (по факту нигде не используется, но раньше использовался в экспериментальных целях)
+
 class Node:
     def __init__ (self, data=None):
         self.data = data
@@ -42,6 +44,7 @@ class LinkedList:
 
         print(output)
 
+    # для отладки циклов
     def print_cycle_list(self):
         cur_node = self.head
         output = ""
