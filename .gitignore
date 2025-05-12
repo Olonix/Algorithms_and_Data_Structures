@@ -1,14 +1,9 @@
 experiments.py
 Lists/__pycache__/LinkedList.cpython-311.pyc
 Lists/__pycache__/MyLinkedList.cpython-311.pyc
-Sorting&Hash_Tables/a.exe
 Sorting&Hash_Tables/Srqt_X.py
 /googletest
 /cmake-4.0.0-linux-x86_64
 /.vscode
-Sorting&Hash_Tables/a.out
-Sorting&Hash_Tables/compile.sh
-Trees/compile.sh
-Trees/a.out
-Trees_2/compile.sh
-Trees_2/a.out
+*.out
+*.sh
